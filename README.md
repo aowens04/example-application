@@ -1,1 +1,1 @@
-# example-application
+example-application
